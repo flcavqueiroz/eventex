@@ -1,5 +1,8 @@
 # Eventex
 
+[![Build Status](https://travis-ci.org/flcavqueiroz/eventex.svg?branch=master)](https://travis-ci.org/flcavqueiroz/eventex)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2c2cd43403334eed89e411b9385a7817)](https://www.codacy.com/manual/flcavqueiroz/eventex?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=flcavqueiroz/eventex&amp;utm_campaign=Badge_Grade)
+
 Sistema de eventos encomendado pela Morena.
 
 ## Como desenvolver?
